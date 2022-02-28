@@ -1,20 +1,13 @@
-# progress
+### why? 
 
-## 16-02-22
+the current landscape:
+* overcomplicated. 
+* lack of privacy. 
+* focused on teams and enterprise users, not individuals. 
 
-### css/static
+### how does poro address these? 
 
-- [x] active session ui
-- [x] options ui modal
-- [x] footer nav
-
-### javascript/dynamic
-
-- [ ] ! timer logic
-- [ ] options state
-- [ ] custom toast
-
-### firebase/db
-
-- [ ] enable firestore RTS
-- [ ] connect to firebase db
+* private. user data never leaves the browser. 
+* designed for humans, and does not feel robotic. 
+* beautifully simple, just that. 
+* still gets the job done (built-in pomodoro timer, etc)
