@@ -25,4 +25,4 @@ the current landscape:
 
 > :v:	contributions and ideas (design or technical) always welcome 🙃.
 
-<a href="https://www.buymeacoffee.com/jenulius" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/12e616724ca" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
